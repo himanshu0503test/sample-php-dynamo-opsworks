@@ -1,0 +1,13 @@
+{
+  "includes": ["_aws"],
+  "services": {
+    "default_settings": {
+      "params": {
+        "key": "fake_key",
+        "secret": "fake_secret",
+        "region": "us-west-2",
+        "base_url": "http://localhost:8000"
+      }
+    }
+  }
+}
